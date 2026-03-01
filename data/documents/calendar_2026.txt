@@ -1,0 +1,12 @@
+January|2026-01-01|New Year's Day
+March|2026-03-21|Human Rights Day
+April|2026-04-03|Good Friday
+April|2026-04-06|Family Day
+April|2026-04-27|Freedom Day
+May|2026-05-01|Workers Day
+June|2026-06-16|Youth Day
+August|2026-08-09|National Women's Day
+September|2026-09-24|Heritage Day
+December|2026-12-16|Day of Reconciliation
+December|2026-12-25|Christmas Day
+December|2026-12-31|End of Year Graduation Ceremony
