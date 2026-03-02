@@ -1,0 +1,10 @@
+C:\Users\makhu\word-doc-qa\target\debug\deps\cubek_random-751ec874928f835b.d: C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cubek-random-0.1.1\src\lib.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cubek-random-0.1.1\src\base.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cubek-random-0.1.1\src\bernoulli.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cubek-random-0.1.1\src\normal.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cubek-random-0.1.1\src\tests_utils.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cubek-random-0.1.1\src\uniform.rs
+
+C:\Users\makhu\word-doc-qa\target\debug\deps\libcubek_random-751ec874928f835b.rmeta: C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cubek-random-0.1.1\src\lib.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cubek-random-0.1.1\src\base.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cubek-random-0.1.1\src\bernoulli.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cubek-random-0.1.1\src\normal.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cubek-random-0.1.1\src\tests_utils.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cubek-random-0.1.1\src\uniform.rs
+
+C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cubek-random-0.1.1\src\lib.rs:
+C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cubek-random-0.1.1\src\base.rs:
+C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cubek-random-0.1.1\src\bernoulli.rs:
+C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cubek-random-0.1.1\src\normal.rs:
+C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cubek-random-0.1.1\src\tests_utils.rs:
+C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cubek-random-0.1.1\src\uniform.rs:

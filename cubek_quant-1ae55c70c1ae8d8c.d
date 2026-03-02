@@ -1,0 +1,11 @@
+C:\Users\makhu\word-doc-qa\target\debug\deps\cubek_quant-1ae55c70c1ae8d8c.d: C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cubek-quant-0.1.1\src\lib.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cubek-quant-0.1.1\src\dequantize.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cubek-quant-0.1.1\src\quantize.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cubek-quant-0.1.1\src\layout\mod.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cubek-quant-0.1.1\src\layout\scales.rs
+
+C:\Users\makhu\word-doc-qa\target\debug\deps\libcubek_quant-1ae55c70c1ae8d8c.rlib: C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cubek-quant-0.1.1\src\lib.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cubek-quant-0.1.1\src\dequantize.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cubek-quant-0.1.1\src\quantize.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cubek-quant-0.1.1\src\layout\mod.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cubek-quant-0.1.1\src\layout\scales.rs
+
+C:\Users\makhu\word-doc-qa\target\debug\deps\libcubek_quant-1ae55c70c1ae8d8c.rmeta: C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cubek-quant-0.1.1\src\lib.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cubek-quant-0.1.1\src\dequantize.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cubek-quant-0.1.1\src\quantize.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cubek-quant-0.1.1\src\layout\mod.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cubek-quant-0.1.1\src\layout\scales.rs
+
+C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cubek-quant-0.1.1\src\lib.rs:
+C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cubek-quant-0.1.1\src\dequantize.rs:
+C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cubek-quant-0.1.1\src\quantize.rs:
+C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cubek-quant-0.1.1\src\layout\mod.rs:
+C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cubek-quant-0.1.1\src\layout\scales.rs:
