@@ -1,0 +1,11 @@
+C:\Users\makhu\word-doc-qa\target\debug\deps\burn_ir-7461917ca8d9a9fe.d: C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\burn-ir-0.20.1\src\lib.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\burn-ir-0.20.1\src\backend.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\burn-ir-0.20.1\src\builder.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\burn-ir-0.20.1\src\handle.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\burn-ir-0.20.1\src\operation.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\burn-ir-0.20.1\src\scalar.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\burn-ir-0.20.1\src\tensor.rs
+
+C:\Users\makhu\word-doc-qa\target\debug\deps\libburn_ir-7461917ca8d9a9fe.rmeta: C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\burn-ir-0.20.1\src\lib.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\burn-ir-0.20.1\src\backend.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\burn-ir-0.20.1\src\builder.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\burn-ir-0.20.1\src\handle.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\burn-ir-0.20.1\src\operation.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\burn-ir-0.20.1\src\scalar.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\burn-ir-0.20.1\src\tensor.rs
+
+C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\burn-ir-0.20.1\src\lib.rs:
+C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\burn-ir-0.20.1\src\backend.rs:
+C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\burn-ir-0.20.1\src\builder.rs:
+C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\burn-ir-0.20.1\src\handle.rs:
+C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\burn-ir-0.20.1\src\operation.rs:
+C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\burn-ir-0.20.1\src\scalar.rs:
+C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\burn-ir-0.20.1\src\tensor.rs:
