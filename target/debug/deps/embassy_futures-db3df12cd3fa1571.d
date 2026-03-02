@@ -1,0 +1,11 @@
+C:\Users\makhu\word-doc-qa\target\debug\deps\embassy_futures-db3df12cd3fa1571.d: C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-futures-0.1.2\src\lib.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-futures-0.1.2\src\fmt.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-futures-0.1.2\src\block_on.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-futures-0.1.2\src\yield_now.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-futures-0.1.2\src\join.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-futures-0.1.2\src\select.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-futures-0.1.2\src\../README.md
+
+C:\Users\makhu\word-doc-qa\target\debug\deps\libembassy_futures-db3df12cd3fa1571.rmeta: C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-futures-0.1.2\src\lib.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-futures-0.1.2\src\fmt.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-futures-0.1.2\src\block_on.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-futures-0.1.2\src\yield_now.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-futures-0.1.2\src\join.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-futures-0.1.2\src\select.rs C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-futures-0.1.2\src\../README.md
+
+C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-futures-0.1.2\src\lib.rs:
+C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-futures-0.1.2\src\fmt.rs:
+C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-futures-0.1.2\src\block_on.rs:
+C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-futures-0.1.2\src\yield_now.rs:
+C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-futures-0.1.2\src\join.rs:
+C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-futures-0.1.2\src\select.rs:
+C:\Users\makhu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-futures-0.1.2\src\../README.md:
